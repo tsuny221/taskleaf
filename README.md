@@ -1,24 +1,57 @@
-# README
+# taskleaf
+## RubyonRails5速習実践ガイド
+RubyonRails5速習実践ガイドの演習用タスク管理アプリです。
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+###  内容
+#### Chapter1
+Railsアプリケーションのコードを読み書きするために特に重要な範囲にフォーカスして、Rubyの基礎知識を解説していきます。
 
-Things you may want to cover:
+#### Chapter2
+* RubyやRailsが動作する環境をローカルPC上に構築する方法を紹介します。
 
-* Ruby version
+* 簡単なサンプルアプリケーションを作成し、中身の構成がどうなっているかを解説していきます。
 
-* System dependencies
+#### Chapter3
+CRUDを備えたシンプルな「タスク管理アプリケーション」を、scaffoldをつかわずにゼロから作成し、Railsの基本的な機能について学んでいきます。
 
-* Configuration
+#### Chapter4
+現実世界の複雑さに対応するために重要な「データ内容の制限」「検証」「コールバック」「フィルタ」「ログイン機能の追加」「関連」「検索」について解説します。
 
-* Database creation
+#### Chapter5
+Railsにあらかじめ用意されている「自動テスト」について、利用方法や注意事項を解説します。
 
-* Database initialization
+#### Chapter6
+Railsの備える機能や、Railsを取り巻く世界の全体像を一望し、ここまでに取り上げられなかったいくつかの重要な要素について解説します。
 
-* How to run the test suite
+#### Chapter7
+Railsアプリケーションで比較的よくある具体的な機能を実現するやり方を、taskleafアプリケーションへの機能追加という形で紹介していきます。
 
-* Services (job queues, cache servers, search engines, etc.)
+#### Chapter8
+* 従来どおり、Railsでアプリケーションの基本的な機能を実現し、画面遷移なしに実現したい動作について、補完的にJavaScriptを利用。
 
-* Deployment instructions
+* JavaScriptで基本的なGUIの実現を行い、データの永続化などサーバサイドの処理にRailsを利用する。
 
-* ...
+本章では、主に１について解説しつつ、２のパターンを用いる際にも参考になるよう解説します。
+
+#### Chapter9
+複数人で開発を行う場合に重要になってくる知識や、注意すべきポイントについて解説していきます。
+
+#### Chapter10
+* バージョンアップに対してどのように取り組むべきか
+
+* Railsアプリケーションコードが増え、複雑になっていく中で、どうやって複雑性に立ち向かい、メンテナンスしやすい状態の維持を図るのか
+
+Railsアプリケーションと長く付き合っていくために重要な２つのテーマを扱います。
+
+
+## 使用言語
+Ruby on Rails
+
+## 使用方法
+
+
+## 参照
+[RubyonRails5速習実践ガイド](https://www.amazon.co.jp/%E7%8F%BE%E5%A0%B4%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8B-Ruby-Rails-5%E9%80%9F%E7%BF%92%E5%AE%9F%E8%B7%B5%E3%82%AC%E3%82%A4%E3%83%89-%E5%A4%A7%E5%A0%B4%E5%AF%A7%E5%AD%90/dp/4839962227/ref=pd_aw_sbs_14_2/356-6834520-9132703?_encoding=UTF8&pd_rd_i=4839962227&pd_rd_r=8f0b001c-8663-46f3-b931-9fd0fdfdc1cd&pd_rd_w=IWnKx&pd_rd_wg=CEvHY&pf_rd_p=bff3a3a6-0f6e-4187-bd60-25e75d4c1c8f&pf_rd_r=BPJKAZFY62S6A4CSHP9C&psc=1&refRID=BPJKAZFY62S6A4CSHP9C)
+
+
+
